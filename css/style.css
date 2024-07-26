@@ -1,0 +1,15 @@
+table{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 20px;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 5px solid black;
+    padding: 40px;
+}
+
+.text{
+    color: red;
+}
